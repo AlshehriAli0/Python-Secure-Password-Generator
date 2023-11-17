@@ -1,6 +1,6 @@
 # Super Secure Password Generator
 
-Welcome to the Super Secure Password Generator! This tool helps you create strong and secure passwords with a mix of letters, numbers, and symbols.
+Welcome to the Super Secure Password Generator! This tool helps you create strong and secure passwords with a mix of letters, numbers, and symbols, built in May/2023.
 
 ## Usage
 
